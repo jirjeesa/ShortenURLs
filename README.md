@@ -1,2 +1,2 @@
 # ShortenURLs
-Serive generate a shorter and unique alias
+Service generate a shorter and unique alias
